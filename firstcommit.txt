@@ -1,1 +1,2 @@
 git kursuna hoşgeldiniz umarum herkes için çok faydaı olur test
+bu derste git ignore öğreniyoruz.
